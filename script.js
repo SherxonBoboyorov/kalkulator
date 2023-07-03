@@ -10,4 +10,6 @@ function appendToResult(value) {
   function clearResult() {
     document.getElementById("result").value = "";
   }
+
+  // logika
   
